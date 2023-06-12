@@ -2,7 +2,10 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      /* our custom styles go here */
+      
+    },
   },
   plugins: [],
 }
