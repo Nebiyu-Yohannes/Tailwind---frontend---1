@@ -522,12 +522,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.p-4 {
-  padding: 1rem;
+.p-2 {
+  padding: 0.5rem;
 }
 
-.pt-4 {
-  padding-top: 1rem;
+.p-4 {
+  padding: 1rem;
 }
 
 .text-2xl {
@@ -574,6 +574,11 @@ video {
 
 .italic {
   font-style: italic;
+}
+
+.text-blue-800 {
+  --tw-text-opacity: 1;
+  color: rgb(30 64 175 / var(--tw-text-opacity));
 }
 
 .text-gray-600 {
