@@ -59,7 +59,8 @@ II. Working with tailwind
 			**  1px = 1rem
 			** 'number'/ 4 = in_rem
 			**  1 = 4px = 0.25rem
+	--- the conversion rates above apply for most tailwind properties
+		
 		N.B. There are other classes for padding, margin and so on.. we can dive deeper into the tailwind documentation for more classes
 
-
-    3. Border
+    3. 
