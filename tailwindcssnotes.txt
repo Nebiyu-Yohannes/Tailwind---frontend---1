@@ -56,6 +56,9 @@ II. Working with tailwind
 		- mt-'number'/mb-'number'/mr-'number'/ml-'number' -- the class for particular side of margin
 		- mx-'number'/my-'number' -- the class for a margin along a particular axis
 
+		- space-'x/y-number' -- it's like adding margin between elements
+		- space-'x/y-reverse' -- when reversing the children
+
 			**  1px = 1rem
 			** 'number'/ 4 = in_rem
 			**  1 = 4px = 0.25rem
