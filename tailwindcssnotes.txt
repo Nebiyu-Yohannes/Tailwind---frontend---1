@@ -57,7 +57,7 @@ II. Working with tailwind
 		- mx-'number'/my-'number' -- the class for a margin along a particular axis
 
 		- space-'x/y-number' -- it's like adding margin between elements
-		- space-'x/y-reverse' -- when reversing the children
+		- space-'x/y'-reverse -- when reversing the children
 
 			**  1px = 1rem
 			** 'number'/ 4 = in_rem
@@ -67,4 +67,12 @@ II. Working with tailwind
 		N.B. There are other classes for padding, margin and so on.. we can dive deeper into the tailwind documentation for more classes
 
 
-    3. Borders 
+    3. Borders
+		- border-'t/b/r/l-number' border-'color' -- to give the border a width and a color
+		- border-'x/y-number' << -- this is in a particular axis
+		
+		- divide-'x/y-number' << -- this is going to divide the elements with a single border between them
+		- divide-'x/y'-reverse  -- this is when reversing the elements
+		
+	
+	4. 
