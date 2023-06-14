@@ -1,0 +1,64 @@
+Tailwind Css stuff....
+
+** prior knowledge needed :-
+	html and css 
+
+I. Setup
+	1. install node.js 
+		- node -v /checks version and if installed/
+	2. open a text editor and open a terminal 
+	3. create a new package.json
+		- npm init -y /creates package.json which keeps track of the depndencies/
+	4. install tailwindcss
+		- npm install tailwindcss /it will appear as a dependency, creates node_modules and a packgae-lock.json/
+	5. create a style-source folder inside root directory of the project and create the source css file
+		- base, components, utilities append to the css file
+	6. create a new script on the package.json file
+		- "a_name": "tailwindcss build style-source-directory.css -o new-output-directory.css"
+ 	7. run the script 
+		- npm run a_name
+		** run this script everytime you change/edit the sourcecssfile / WE MAY NEED TO USE IT MORE OFTEN THAN EXPECTIED - issue??! /
+
+	8. create a tailwind.config.js file; this is a file of different css properties and used by tailwind
+		- npx tailwindcss init -full
+	9. we can name the former file on no. 8 as tailwind-default.config.js
+	10. we can create a new tailwind.config.js file /but an empty one - to be used for custom styles by us/
+		- npx tailwindcss init
+		
+
+*** ON THE tailwind.config.js files ... add the directory to our template files on the content property inside the file
+
+*optional*--- install the tailwind extension for vscode or other editors so as to make the classes pop when in development
+*optional*--- install the liver-server feature.. on terminal:- npm live-server
+		----to start it.. on terminal:- live-server the_holding_folder_of_the_html_file
+*optional*--- to customize some classes to your liking; go to the tailwind.config.js file and edit the properties there but don't forget to run the css building script when you're done.
+
+
+
+II. Working with tailwind
+	
+** start with creating your html template file
+** since tailwind is 
+** Go to tailwind docs to view the different properties and styles that tailwind has to offer. 	
+	
+	1. Font and Color
+		- text-'color'-'strength(100-900)' -- the class for text color
+		- font-'size/type/bold/semi-bold/etc..' -- the class for the font size, strength, type and so on
+		- italic -- class for italic styles
+		
+
+	2. Spacing, Padding and Margin
+		- p-'number' -- the class for padding all around
+		- pt-'number'/pb-'number'/pr-'number'/pl-'number' -- the class for particular side of padding
+		- px-'number'/py-'number' -- the class for a padding along a particular axis
+			
+		- m-'number' -- the class for margin all around
+		- mt-'number'/mb-'number'/mr-'number'/ml-'number' -- the class for particular side of margin
+		- mx-'number'/my-'number' -- the class for a margin along a particular axis
+
+			**  1px = 1rem
+			** 'number'/ 4 = in_rem
+			**  1 = 4px = 0.25rem
+		N.B. There are other classes for padding, margin and so on.. we can dive deeper into the tailwind documentation for more classes
+
+    3. 
