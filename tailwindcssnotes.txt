@@ -63,4 +63,5 @@ II. Working with tailwind
 		
 		N.B. There are other classes for padding, margin and so on.. we can dive deeper into the tailwind documentation for more classes
 
-    3. 
+
+    3. Borders 
