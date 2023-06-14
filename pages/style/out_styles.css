@@ -526,12 +526,13 @@ video {
   margin-top: 1rem;
 }
 
-.flex {
-  display: flex;
+.border-4 {
+  border-width: 4px;
 }
 
-.flex-col {
-  flex-direction: column;
+.border-blue-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(37 99 235 / var(--tw-border-opacity));
 }
 
 .p-2 {
