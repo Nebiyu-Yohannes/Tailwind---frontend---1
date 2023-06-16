@@ -79,4 +79,6 @@ II. Working with tailwind
 		- bg-'color-number' -- almost like setting the text color
 		- bg-'color-number/opacity'  -- also setting the transparency
 
+
+	5. Using Flexbox
 		
