@@ -75,4 +75,6 @@ II. Working with tailwind
 		- divide-'x/y'-reverse  -- this is when reversing the elements
 		
 	
-	4. 
+	4. Background
+		- bg-'color-number/strength' -- almost like setting the text color
+		
