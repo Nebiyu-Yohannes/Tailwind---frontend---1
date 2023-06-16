@@ -5,7 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      /* our custom styles go here */     
+      /* our custom styles go here */
+      fontFamily: {
+        body: ['Nunito']
+      }     
 
     },
   },
