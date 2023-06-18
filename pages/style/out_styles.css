@@ -578,12 +578,20 @@ video {
   margin-top: 0.5rem;
 }
 
+.ml-2{
+  margin-left: 0.5rem;
+}
+
 .flex{
   display: flex;
 }
 
 .w-full{
   width: 100%;
+}
+
+.justify-end{
+  justify-content: flex-end;
 }
 
 .border-2{
