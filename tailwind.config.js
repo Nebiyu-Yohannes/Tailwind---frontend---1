@@ -11,6 +11,9 @@ module.exports = {
       }     
 
     },
+
+    /* this is where we configure our breakpoints */
+    
   },
   plugins: [],
 }
