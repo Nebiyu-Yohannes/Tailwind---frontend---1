@@ -81,5 +81,7 @@ II. Working with tailwind
 
 
 	5. Using Flexbox
-		- 
+		- flex -- a class that makes child elements flex items
+		- items-'end/start/center.../' -- a class that aligns elements/items
+		- justify-'center/end//start...' -- a class that justifies elements
 		
