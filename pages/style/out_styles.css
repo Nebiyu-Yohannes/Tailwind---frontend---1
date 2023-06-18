@@ -590,8 +590,16 @@ video {
   width: 100%;
 }
 
+.items-end{
+  align-items: flex-end;
+}
+
 .justify-end{
   justify-content: flex-end;
+}
+
+.justify-center{
+  justify-content: center;
 }
 
 .border-2{
