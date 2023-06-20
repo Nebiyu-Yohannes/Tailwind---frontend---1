@@ -101,4 +101,4 @@ gt
 	10. Using Grid
 		- grid
 		- items -
-		- justify-'center/end'
+		- justify-'center/end/start...'
