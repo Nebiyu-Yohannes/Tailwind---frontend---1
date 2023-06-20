@@ -100,5 +100,5 @@ gt
 
 	10. Using Grid
 		- grid
-		- items - 'center/end/start...'  --  a class that aligns 
+		- items - 'center/end/start...'  --  a class that aligns elements 
 		- justify-'center/end/start...'  --  a class that justifies elements
