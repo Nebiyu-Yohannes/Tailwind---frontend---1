@@ -95,3 +95,8 @@ II. Working with tailwind
 			* we configure the breakpoints at the tailwind.config.js file
 tr
 gt
+
+
+
+	10. Using Grid
+		- grid 
