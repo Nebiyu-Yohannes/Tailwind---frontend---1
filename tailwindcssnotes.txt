@@ -94,6 +94,9 @@ II. Working with tailwind
 			
 			* we configure the breakpoints at the tailwind.config.js file
 
+	
+	7. Cards
+		
 
 
 
