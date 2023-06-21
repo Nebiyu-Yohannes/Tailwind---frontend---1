@@ -594,6 +594,10 @@ video {
   margin-top: 2rem;
 }
 
+.ml-0{
+  margin-left: 0px;
+}
+
 .block{
   display: block;
 }
