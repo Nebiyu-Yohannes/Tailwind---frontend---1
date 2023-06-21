@@ -638,8 +638,40 @@ video {
   height: 100%;
 }
 
+.h-20{
+  height: 5rem;
+}
+
 .w-full{
   width: 100%;
+}
+
+.w-10{
+  width: 2.5rem;
+}
+
+.w-20{
+  width: 5rem;
+}
+
+.w-32{
+  width: 8rem;
+}
+
+.w-3{
+  width: 0.75rem;
+}
+
+.w-24{
+  width: 6rem;
+}
+
+.w-28{
+  width: 7rem;
+}
+
+.w-2{
+  width: 0.5rem;
 }
 
 .flex-row{
@@ -648,6 +680,10 @@ video {
 
 .flex-col{
   flex-direction: column;
+}
+
+.justify-start{
+  justify-content: flex-start;
 }
 
 .justify-center{
@@ -930,5 +966,11 @@ video {
   .md\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+}
+
+@media (min-width: 1024px){
+  .lg\:w-40{
+    width: 10rem;
   }
 }
