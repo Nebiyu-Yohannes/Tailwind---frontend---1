@@ -124,7 +124,7 @@ N.B:--- make an element a block element so to start a new line, opposite of inli
 
 
 
-	?10?. Using Grid
+	?10?. Using Grid  ....... notice!
 		- grid
 		- items - 'center/end/start...'  --  a class that aligns its elements 
 		- justify-'center/end/start...'  --  a class that justifies elements
