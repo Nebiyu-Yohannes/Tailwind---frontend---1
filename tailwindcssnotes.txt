@@ -102,7 +102,7 @@ II. Working with tailwind
 
 
 
-N.B:--- make an element a block element so to start a new line, opposite of inline element   
+N.B:--- mke an element a block element so to start a new line, opposite of inline element   
 
 	8.  
 
