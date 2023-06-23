@@ -113,8 +113,10 @@ N.B:--- make an element a block element so to start a new line, opposite of inli
 	9. using @apply Directive
 		- modifying the source css file to contain shortcut class names that are custom to us
 			- example:- .badge{
-				
-			} 
+				@apply bg-red-400 text-yellow-300 text-xs rounded-full absolute top-0 ml-2 mt-2
+			}
+
+		- this way we can use badge as a class the replaces or applies all the above classes
 
 	10.
 
