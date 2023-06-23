@@ -104,9 +104,17 @@ II. Working with tailwind
 
 N.B:--- make an element a block element so to start a new line, opposite of inline element   
 
-	8.  
+	8.  Badge
+			- they are posted within and on to other elements such as cards
+			- the are positioned absolutely inside their relative parent element
+			-set bg, text color/font/size, corners' radius
 
-	9.
+
+	9. using @apply Directive
+		- modifying the source css file to contain shortcut class names that are custom to us
+			- example:- .badge{
+				
+			} 
 
 	10.
 
