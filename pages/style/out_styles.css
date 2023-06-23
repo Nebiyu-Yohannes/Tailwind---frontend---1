@@ -626,6 +626,10 @@ video {
   flex-direction: row;
 }
 
+.items-end{
+  align-items: flex-end;
+}
+
 .justify-center{
   justify-content: center;
 }
@@ -721,6 +725,11 @@ video {
 .bg-gray-400{
   --tw-bg-opacity: 1;
   background-color: rgb(156 163 175 / var(--tw-bg-opacity));
+}
+
+.bg-secondary-100{
+  --tw-bg-opacity: 1;
+  background-color: rgb(226 226 213 / var(--tw-bg-opacity));
 }
 
 .object-cover{
