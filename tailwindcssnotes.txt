@@ -1,7 +1,7 @@
 Tailwind Css stuff....
 
-** prior knowledge needed :-
-	html and CSS 
+** Prior knowledge needed:-
+	HTML and CSS 
 
 
 
