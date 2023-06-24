@@ -30,7 +30,7 @@ I. Setup
 
 *** ON THE tailwind.config.js files ... add the directory to our template files on the content property inside the file
 
-*optional*--- install the tailwind extension for vscode or other editors so as to make the classes pop when in development
+*optional*--- install the tailwind extension for vs code or other editors so as to make the classes pop when in development
 *optional*--- install the liver-server feature.. on terminal:- npm live-server
 		----to start it.. on terminal:- live-server the_holding_folder_of_the_html_file
 *optional*--- to customize some classes to your liking; go to the tailwind.config.js file and edit the properties there but don't forget to run the css building script when you're done.
