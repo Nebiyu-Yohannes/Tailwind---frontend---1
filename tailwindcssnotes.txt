@@ -33,7 +33,7 @@ I. Setup
 *optional*--- install the tailwind extension for vs code or other editors so as to make the classes pop when in development
 *optional*--- install the liver-server feature.. on terminal:- npm live-server
 		----to start it.. on terminal:- live-server the_holding_folder_of_the_html_file
-*optional*--- to customize some classes to your liking; go to the tailwind.config.js file and edit the properties there but don't forget to run the css building script when you're done.
+*optional*--- to customize some classes to your liking; go to the tailwind.config.js file and edit the properties there but don't forget to run the CSS building script when you're done.
 
 
 
@@ -45,7 +45,7 @@ II. Working with tailwind
 	
 	1. Font and Color
 		- text-'color'-'strength(100-900)' -- the class for text color
-		- font-'size/type/bold/semi-bold/etc..' -- the class for the font size, strength, type and so on
+		- font-'size/type/bold/semi-bold/etc..' -- the class for the font size, strength, type, and so on
 		- italic -- class for italic styles
 		
 
