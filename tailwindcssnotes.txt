@@ -49,24 +49,24 @@ II. Working with tailwind
 		- italic -- class for italic styles
 		
 
-	2. Spacing, Padding and Margin
+	2. Spacing, Padding, and Margin
 		- p-'number' -- the class for padding all around
 		- pt-'number'/pb-'number'/pr-'number'/pl-'number' -- the class for particular side of padding
-		- px-'number'/py-'number' -- the class for a padding along a particular axis
+		- px-'number'/py-'number' -- the class for padding along a particular axis
 			
 		- m-'number' -- the class for margin all around
 		- mt-'number'/mb-'number'/mr-'number'/ml-'number' -- the class for particular side of margin
 		- mx-'number'/my-'number' -- the class for a margin along a particular axis
 
-		- space-'x/y-number' -- it's like adding margin between elements
+		- space-'x/y-number' -- it's like adding a margin between elements
 		- space-'x/y'-reverse -- when reversing the children
 
 			**  1px = 1rem
 			** 'number'/ 4 = in_rem
 			**  1 = 4px = 0.25rem
-	--- the conversion rates above apply for most tailwind properties
+	--- The conversion rates above apply to most tailwind properties
 		
-		N.B. There are other classes for padding, margin and so on.. we can dive deeper into the tailwind documentation for more classes
+		N.B. There are other classes for padding, margin, and so on.. we can dive deeper into the tailwind documentation for more classes
 
 
     3. Borders
@@ -98,7 +98,7 @@ II. Working with tailwind
 
 	
 	7. Cards
-		- Styling:- setting a background, controlling the corners and the overflow, also give it a shadow
+		- Styling:- setting a background, controlling the corners and the overflow, also giving it a shadow
 			- bg-blue-300 rounded/controlling the corners/ overflow-hidden shadow-sm
 		- images:- setting the width, height, object-cover/fit/.. and making it more responsive to breakpoints
 
