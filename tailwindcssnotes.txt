@@ -1,7 +1,9 @@
 Tailwind Css stuff....
 
 ** prior knowledge needed :-
-	html and css 
+	html and CSS 
+
+
 
 I. Setup
 	1. install node.js 
@@ -12,7 +14,7 @@ I. Setup
 	4. install tailwindcss
 		- npm install tailwindcss /it will appear as a dependency, creates node_modules and a package-lock.json/
 	5. create a style-source folder inside root directory of the project and create the source css file
-		- base, components, utilities append to the css file
+		- base, components, and utilities append to the css file
 	6. create a new script on the package.json file
 		- "a_name": "tailwindcss build style-source-directory.css -o new-output-directory.css"
  	7. run the script 
