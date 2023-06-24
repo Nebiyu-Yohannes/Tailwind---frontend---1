@@ -13,7 +13,7 @@ I. Setup
 		- npm init -y /creates package.json which keeps track of the dependencies/
 	4. install tailwindcss
 		- npm install tailwindcss /it will appear as a dependency, creates node_modules and a package-lock.json/
-	5. create a style-source folder inside the root directory of the project and generate the source css file
+	5. create a style-source folder inside the root directory of the project and generate the source CSS file
 		- base, components, and utilities append to the CSS file
 	6. create a new script on the package.json file
 		- "a_name": "tailwindcss build style-source-directory.css -o new-output-directory.css"
@@ -21,7 +21,7 @@ I. Setup
 		- npm run a_name
 		** run this script every time you change/edit the source file / WE MAY NEED TO USE IT MORE OFTEN THAN EXPECTED - issue??! /
 
-	8. create a tailwind.config.js file; this is a file of different css properties used by tailwind
+	8. create a tailwind.config.js file; this is a file of different CSS properties used by tailwind
 		- npx tailwindcss init -full
 	9. we can name the former file on no. 8 as tailwind-default.config.js
 	10. we can create a new tailwind.config.js file /but an empty one - to be used for custom styles by us/
