@@ -39,9 +39,9 @@ I. Setup
 
 II. Working with tailwind
 	
-** start with creating your html template file
-** since tailwind is 
-** Go to tailwind docs to view the different properties and styles that tailwind has to offer. 	
+** start with creating your HTML template file
+** 
+** Go to Tailwind docs to view the different properties and styles Tailwind offers. 	
 	
 	1. Font and Color
 		- text-'color'-'strength(100-900)' -- the class for text color
