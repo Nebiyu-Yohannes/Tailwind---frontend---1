@@ -118,7 +118,7 @@ N.B:--- make an element a block element so to start a new line, opposite of inli
 
 		- this way we can use badge as a class the replaces or applies all the above classes
 
-	10.
+	10. 
 
 	11.
 
@@ -135,6 +135,7 @@ N.B:--- make an element a block element so to start a new line, opposite of inli
 
 
 	10?. Using Grid 
+		
 		- grid
 		- items - 'center/end/start...'  --  a class that aligns its elements 
 		- justify-'center/end/start...'  --  a class that justifies elements
