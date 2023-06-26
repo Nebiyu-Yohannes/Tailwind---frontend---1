@@ -17,7 +17,7 @@
     @apply bg-gray-300 rounded overflow-hidden shadow-md relative;
 }
 
-.title-container{
+.title-container1{
     @apply flex justify-start pt-1 pb-1 pl-2 pr-2 mt-4 ml-1 header-container w-fit bg-red-900 rounded-full;
 }
 
