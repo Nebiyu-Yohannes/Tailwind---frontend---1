@@ -897,9 +897,6 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.title-container{
-}
-
 @media (min-width: 640px){
   .sm\:h-48{
     height: 12rem;
@@ -916,3 +913,6 @@ video {
     line-height: 1.75rem;
   }
 }
+
+
+
