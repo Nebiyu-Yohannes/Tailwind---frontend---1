@@ -122,9 +122,6 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 	10. 
 
-	11.
-
-
 
 	10?. Using Grid 
 		
