@@ -121,6 +121,4 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 		- this way we can use the badge as a class that replaces or applies all the above classes
  
 
-	10?. Using Grid 
-		
-		-
+	10. Using Grid
