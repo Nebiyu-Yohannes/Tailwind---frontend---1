@@ -121,9 +121,6 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 		- this way we can use the badge as a class that replaces or applies all the above classes
  
 
-
 	10?. Using Grid 
 		
-		- grid
-		- items - 'center/end/start...'  --  a class that aligns its elements 
-		- justify-'center/end/start...'  --  a class that justifies elements
+		- enter/end/start...'  --  a class that justifies elements
