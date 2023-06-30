@@ -125,3 +125,6 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 		- 'grid' then grid-rows/cols- "number" --- this is how you set a container to grid 
 			--- then we select if we want the view in a horizontal or vertical alignment /cols/rows/
 		- use 'gap - "number"' -- this gives space between them depending on the number
+
+		- SPAN:- make use of how many columns or rows an element spans
+			- col-span-'number' or - row-span-'number'
