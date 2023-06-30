@@ -614,6 +614,10 @@ video {
   display: flex;
 }
 
+.grid{
+  display: grid;
+}
+
 .h-32{
   height: 8rem;
 }
@@ -629,6 +633,10 @@ video {
 
 .w-full{
   width: 100%;
+}
+
+.grid-cols-3{
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .flex-row{
