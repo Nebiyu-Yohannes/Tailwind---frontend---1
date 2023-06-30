@@ -21,3 +21,6 @@
     @apply bg-red-900 flex justify-start pt-1 pb-1 pl-2 pr-2 mt-4 ml-1 w-fit rounded-full;
 }
 
+.btn{
+    @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider;
+}
