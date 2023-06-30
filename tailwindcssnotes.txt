@@ -128,3 +128,7 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 		- SPAN:- make use of how many columns or rows an element spans
 			- col-span-'number' or - row-span-'number'
+
+	
+	11. Buttons
+		
