@@ -131,4 +131,5 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 	
 	11. Buttons
-		-
+		- they can be custom to our liking; but they are usually:-
+			  --  rounded, bordered, 
