@@ -630,6 +630,10 @@ video {
   height: 1.5rem;
 }
 
+.h-4{
+  height: 1rem;
+}
+
 .w-48{
   width: 12rem;
 }
@@ -653,6 +657,10 @@ video {
 
 .w-10{
   width: 2.5rem;
+}
+
+.w-4{
+  width: 1rem;
 }
 
 .justify-start{
