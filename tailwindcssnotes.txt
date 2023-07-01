@@ -131,7 +131,7 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 	
 	11. Buttons
-		- they can be custom to our liking; but they are usually:-
+		- they can be custom to our liking, but they are usually:-
 			  --  rounded, bordered, and effect upon hover maybe or pointer/cursor
 			  -- we can design and embed it in our source css file for easy later use 
 			  			eg:- .btn{ 
