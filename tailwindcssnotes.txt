@@ -133,7 +133,7 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 	11. Buttons
 		- they can be custom to our liking, but they are usually:-
 			  --  rounded, bordered, and effect upon hover maybe or pointer/cursor
-			  -- we can design and embed it in our source CSS file for easy later use 
+			  -- We can design and embed it in our source CSS file for easy later use 
 			  			eg:- .btn{ 
 							@apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider;
 								}
