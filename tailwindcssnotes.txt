@@ -140,7 +140,7 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 	12. Icons
 		- Recommended to use heroicons; 
-			- where you cna choose different types of already made icons and export them to your templates as 'svg'
+			- where you can choose different types of already made icons and export them to your templates as 'svg'
 
 
 	13. Hover Effects
