@@ -144,5 +144,5 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 
 	13. Hover Effects
-		- J
-		-
+		- 
+		
