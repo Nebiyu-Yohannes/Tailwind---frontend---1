@@ -144,5 +144,5 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 
 	13. Hover Effects
-		- 
-		
+		- hover:'we call the particular class we want to implement'
+			---- Eg:- hover:text-color-white    --> this changes the text-color of the element to white when it's being 
