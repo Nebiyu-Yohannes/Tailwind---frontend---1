@@ -776,6 +776,18 @@ video {
   --tw-bg-opacity: 0.1;
 }
 
+.bg-opacity-50{
+  --tw-bg-opacity: 0.5;
+}
+
+.bg-opacity-80{
+  --tw-bg-opacity: 0.8;
+}
+
+.bg-opacity-90{
+  --tw-bg-opacity: 0.9;
+}
+
 .object-cover{
   -o-object-fit: cover;
      object-fit: cover;
@@ -1023,6 +1035,10 @@ video {
 .hover\:bg-gray-800:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-opacity-100:hover{
+  --tw-bg-opacity: 1;
 }
 
 .hover\:text-white:hover{
