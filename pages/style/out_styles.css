@@ -651,6 +651,10 @@ video {
   width: 100%;
 }
 
+.grid-rows-2{
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+}
+
 .justify-start{
   justify-content: flex-start;
 }
