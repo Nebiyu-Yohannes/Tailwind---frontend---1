@@ -655,6 +655,14 @@ video {
   grid-template-rows: repeat(2, minmax(0, 1fr));
 }
 
+.flex-row{
+  flex-direction: row;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
 .justify-start{
   justify-content: flex-start;
 }
@@ -723,6 +731,11 @@ video {
 .border-white{
   --tw-border-opacity: 1;
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+
+.border-gray-600{
+  --tw-border-opacity: 1;
+  border-color: rgb(75 85 99 / var(--tw-border-opacity));
 }
 
 .bg-black{
