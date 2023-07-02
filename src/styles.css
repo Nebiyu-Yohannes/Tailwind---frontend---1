@@ -10,7 +10,7 @@
 
 /*  */
 .badge1{
-    @apply bg-black text-secondary-200 text-xs uppercase font-bold rounded-full p-2 absolute top-0;
+    @apply bg-black text-secondary-200 text-xs uppercase font-bold rounded-full p-2 pr-4 absolute top-0;
 }
 
 .card1{
