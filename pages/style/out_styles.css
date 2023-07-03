@@ -680,6 +680,10 @@ video {
   justify-content: center;
 }
 
+.gap-2{
+  gap: 0.5rem;
+}
+
 .justify-self-center{
   justify-self: center;
 }
@@ -798,6 +802,11 @@ video {
 .py-6{
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+}
+
+.px-4{
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .pb-1{
