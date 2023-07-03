@@ -1044,6 +1044,10 @@ video {
     border-width: 2px;
   }
 
+  .md\:text-right{
+    text-align: right;
+  }
+
   .md\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
