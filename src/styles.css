@@ -18,7 +18,7 @@
 }
 
 .title-container1{
-    @apply bg-red-900 flex justify-start pt-1 pb-1 pl-2 pr-2 mt-4 ml-1 w-fit rounded-full;
+    @apply bg-red-900 flex justify-start pt-1 pb-1 pl-2 pr-2 mt-4 ml-1 w-fit h-fit rounded-full;
 }
 
 .btn{
