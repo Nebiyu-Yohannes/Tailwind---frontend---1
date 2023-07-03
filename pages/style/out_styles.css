@@ -975,8 +975,20 @@ video {
 }
 
 @media (min-width: 640px){
+  .sm\:ml-1{
+    margin-left: 0.25rem;
+  }
+
   .sm\:h-48{
     height: 12rem;
+  }
+
+  .sm\:justify-start{
+    justify-content: flex-start;
+  }
+
+  .sm\:justify-self-start{
+    justify-self: start;
   }
 }
 
