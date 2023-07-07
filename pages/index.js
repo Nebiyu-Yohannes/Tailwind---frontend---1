@@ -13,4 +13,4 @@ const open_menu = ()=>{
 }
 
 
-menu_icon.addEventListener('click', )
+menu_icon.addEventListener('click', open_menu());
