@@ -13,4 +13,11 @@ const open_menu = ()=>{
 }
 
 
-menu_icon.addEventListener('click', open_menu());
+menu_icon.addEventListener('click', () => {
+    if (menu.classList.contains('hidden')) {
+        menu.classList.remove('hidden');
+    } else {
+        menu.classList.add('hidden');
+    }
+}
+);
