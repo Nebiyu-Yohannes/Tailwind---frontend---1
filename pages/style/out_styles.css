@@ -838,6 +838,10 @@ video {
   padding-top: 0.25rem;
 }
 
+.text-center{
+  text-align: center;
+}
+
 .font-body{
   font-family: Nunito;
 }
