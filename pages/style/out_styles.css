@@ -626,6 +626,10 @@ video {
   display: grid;
 }
 
+.hidden{
+  display: none;
+}
+
 .h-32{
   height: 8rem;
 }
@@ -663,12 +667,20 @@ video {
   width: 100%;
 }
 
+.items-center{
+  align-items: center;
+}
+
 .justify-end{
   justify-content: flex-end;
 }
 
 .justify-center{
   justify-content: center;
+}
+
+.justify-between{
+  justify-content: space-between;
 }
 
 .justify-items-center{
@@ -1060,6 +1072,10 @@ video {
 
   .md\:col-span-3{
     grid-column: span 3 / span 3;
+  }
+
+  .md\:block{
+    display: block;
   }
 
   .md\:flex{
