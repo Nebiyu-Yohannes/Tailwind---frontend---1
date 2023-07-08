@@ -150,7 +150,7 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 	14. Making a hidden button
 		-  using JavaScript to add/remove classes based on events
-			---- Eg:- make a funtion that removes/adds the class hidden
+			---- Eg:- make a function that removes/adds the class hidden
 
 
 	14. Transitions
