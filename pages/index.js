@@ -12,10 +12,10 @@ const menu = document.querySelector('#menu-list');
 const open_menu = ()=>{
     if (menu.classList.contains('hidden')){
         menu.classList.remove('hidden');
-        print('menu_opened');
+        console.log('menu_opened');
     } else {
         menu.classList.add('hidden');
-        print('menu_closed');
+        console.log('menu_closed');
     }
 }
 
@@ -23,3 +23,15 @@ const open_menu = ()=>{
 menu_icon.addEventListener('click', open_menu);
 
 
+// this is also another way to implement it
+// by directly creating an arrow function in the event listener method for the click event 
+
+/*menu_icon.addEventListener('click', () => {
+    if (menu.classList.contains('hidden')) {
+        menu.classList.remove('hidden');
+    } else {
+        menu.classList.add('hidden');
+    }
+}
+);
+*/
