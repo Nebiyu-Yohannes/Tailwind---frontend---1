@@ -149,7 +149,7 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 
 	14. Making a hidden button
-		-  
+		-  using JavaScript to add/remove classes based on events
 
 
 
