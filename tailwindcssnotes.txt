@@ -154,4 +154,4 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 
 	14. Transitions
-		- 
+		- to make changes
