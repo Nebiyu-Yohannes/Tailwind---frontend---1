@@ -5,7 +5,8 @@ const menu_icon = document.querySelector('#menu-icon-container');
 const menu = document.querySelector('#menu-list');
 
 
-// this is the declaration of an open
+// this is the declaration of a menu_opening function 
+// that adds and removes the class hidden, based on it being there already
 
 const open_menu = ()=>{
     if (menu.classList.contains('hidden')){
@@ -16,6 +17,7 @@ const open_menu = ()=>{
 }
 
 
+// this is al
 
 /*menu_icon.addEventListener('click', () => {
     if (menu.classList.contains('hidden')) {
@@ -26,4 +28,6 @@ const open_menu = ()=>{
 }
 );
 */
+
+
 menu_icon.addEventListener('click', open_menu);
