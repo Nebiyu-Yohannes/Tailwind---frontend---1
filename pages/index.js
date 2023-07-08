@@ -4,6 +4,9 @@ const menu_icon = document.querySelector('#menu-icon-container');
 
 const menu = document.querySelector('#menu-list');
 
+
+// this is the 
+
 /*const open_menu = ()=>{
     if (menu.classList.contains('hidden')){
         menu.classList.remove('hidden');
