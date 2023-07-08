@@ -19,7 +19,8 @@ const open_menu = ()=>{
 }
 
 
-// this is al
+// this is also another way to implement it 
+// by directly creating an arrow function in the event listener method for the click event 
 
 /*menu_icon.addEventListener('click', () => {
     if (menu.classList.contains('hidden')) {
