@@ -711,6 +711,10 @@ video {
   justify-content: stretch;
 }
 
+.gap-1{
+  gap: 0.25rem;
+}
+
 .justify-self-center{
   justify-self: center;
 }
