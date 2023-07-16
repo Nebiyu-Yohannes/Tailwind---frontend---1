@@ -157,12 +157,8 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 		- to make changes in style as smooth as possible
 			-- Eg:- transition ease-out duration-500 
 				--> the duration is in milliseconds
-			-- Eg:- 
-
-			-----> scale example
 
 	16. Transform
 		- to apply transforms to elements (like scale)
 			-- Eg:- transform hover:scale-'no' hover:bg-opacity-'no' transition ease-out duration-'no' 
 				--> we applied the transition class so as to make the transformation of the element as smooth as possible
-				
