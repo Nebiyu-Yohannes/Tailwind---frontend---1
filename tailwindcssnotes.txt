@@ -153,8 +153,8 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 			---- Eg:- make a function that removes/adds the class hidden
 
 
-	14. Transitions
+	15. Transitions
 		- to make changes in style as smooth as possible
 			-- Eg:- transition
 
-		-----> scale example
+			-----> scale example
