@@ -10,9 +10,9 @@
 
 <body class="text-gray-600 font-body">
 
-    <div class="h-screen grid md:grid-cols-4"> <!-- content wrapper -->
+    <div class="h-screen grid grid-rows-4 md:grid-cols-4"> <!-- content wrapper -->
 
-        <div class="md:flex md:justify-end border-4 border-blue-800 bg-gray-800 md:col-span-1">
+        <div class="md:flex md:justify-end border-4 border-blue-800 bg-gray-800 md:col-span-1 row-span-1">
             <!-- Start of navigation -->
             <nav class="md:text-right">
 
@@ -69,6 +69,57 @@
 
             </nav>
         </div> <!-- end of navigation -->
+
+        <main class="bg-gray-900 px-10 py-6 border-2 border-red-500 md:col-span-3">
+            <div class="flex justify-center items-center min-h-screen py-12 px-4">
+                <div class="w-full max-w-md">
+                    <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+                        <div class="mb-4">
+                            <label class="block text-gray-700 font-bold mb-2" for="username">
+                                Username
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="username" type="text" placeholder="Username">
+                        </div>
+                        <div class="mb-4">
+                            <label class="block text-gray-700 font-bold mb-2" for="email">
+                                Email
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="email" type="email" placeholder="Email">
+                        </div>
+                        <div class="mb-4">
+                            <label class="block text-gray-700 font-bold mb-2" for="password">
+                                Password
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="password" type="password" placeholder="Password">
+                        </div>
+                        <div class="mb-4">
+                            <label class="block text-gray-700 font-bold mb-2" for="confirm_password">
+                                Confirm Password
+                            </label>
+                            <input
+                                class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                id="confirm_password" type="password" placeholder="Confirm Password">
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <button
+                                class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                                type="button">
+                                Signup
+                            </button>
+                        </div>
+                    </form>
+                    <p class="text-center text-gray-500 text-xs">
+                        &copy;2023 Acme Corporation. All rights reserved.
+                    </p>
+                </div>
+            </div>
+        </main>
 
     </div>
 
