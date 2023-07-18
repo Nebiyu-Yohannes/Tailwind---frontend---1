@@ -1174,6 +1174,10 @@ video {
   outline-offset: 2px;
 }
 
+.group\/for-time:hover .group-hover\/for-time\:hidden{
+  display: none;
+}
+
 .peer:hover ~ .peer-hover\:hidden{
   display: none;
 }
