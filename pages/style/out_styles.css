@@ -1178,6 +1178,18 @@ video {
   display: none;
 }
 
+.peer:hover ~ .peer-hover\/\:hidden{
+  display: none;
+}
+
+.peer\/for-t:hover ~ .peer-hover\/for-t\:hidden{
+  display: none;
+}
+
+.peer\/for-time:hover ~ .peer-hover\/for-time\:hidden{
+  display: none;
+}
+
 @media (min-width: 640px){
   .sm\:ml-1{
     margin-left: 0.25rem;
