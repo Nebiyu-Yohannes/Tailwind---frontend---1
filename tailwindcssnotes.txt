@@ -170,4 +170,5 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 			 --> group/name - is for when you want to target an element based on it's container
 
 
-	18. 
+	18. Custom theme
+		--> we can add custom themes on the tailwind.config.js file
