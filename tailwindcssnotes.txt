@@ -162,3 +162,9 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 		- to apply transforms to elements (like scale)
 			-- Eg:- transform hover:scale-'no' hover:bg-opacity-'no' transition ease-out duration-'no' 
 				--> we applied the transition class so as to make the transformation of the element as smooth as possible
+
+
+	17. peer and group
+			 -- this is to give behavior to an element based on the activity of another 
+			 --> peer/name1 - is for different elements, or not in the same div
+			 --> group/name - s
