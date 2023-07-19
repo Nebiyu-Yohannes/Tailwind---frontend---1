@@ -167,4 +167,4 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 	17. peer and group
 			 -- this is to give behavior to an element based on the activity of another 
 			 --> peer/name1 - is for different elements, or not in the same div
-			 --> group/name - s
+			 --> group/name - is for when you want to target an element based on it's container
