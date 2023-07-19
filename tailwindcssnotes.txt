@@ -172,3 +172,8 @@ N.B:--- Make an element a block element so as to start a new line, opposite of t
 
 	18. Custom theme
 		--> we can add custom themes on the tailwind.config.js file
+
+	
+	19. Adding Your JavaScript
+		--> We can add our own JavaScript file on to the package.json file of the project
+				under the the entry point field --> /'main'/
